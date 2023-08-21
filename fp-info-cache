@@ -1,4 +1,4 @@
-21708222598629266
+21715066461761030
 000-edge-connectors-immo
 1-pin-edge-touch-xl
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
@@ -55,6 +55,41 @@ PCIe
 0
 36
 36
+000-screw-terminals-immo
+TerminalBlock_Altech_AK300-2_P5.00mm
+Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
+Altech AK300 terminal block pitch 5.0mm
+0
+2
+2
+000-screw-terminals-immo
+TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-2-2.54, 2 pins, pitch 2.54mm, size 5.54x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-2-2.54 pitch 2.54mm size 5.54x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+2
+2
+000-screw-terminals-immo
+TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-4-2.54, 4 pins, pitch 2.54mm, size 10.6x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-4-2.54 pitch 2.54mm size 10.6x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+4
+4
+000-screw-terminals-immo
+TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal
+Terminal Block TE 282834-4, 4 pins, pitch 2.54mm, size 10.620000000000001x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
+THT Terminal Block TE 282834-4 pitch 2.54mm size 10.620000000000001x6.5mm^2 drill 1.1mm pad 2.1mm
+0
+4
+4
+000-screw-terminals-immo
+TerminalBlock_WAGO_236-416_1x16_P2.5mm_45Degree_1
+Terminal Block WAGO 236-416, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-416 45Degree pitch 5mm size 82.3x14mm^2 drill 1.15mm pad 3mm
+0
+32
+16
 000_Capacitors_Immo
 CP_Elec_10x10
 SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
@@ -182,32 +217,11 @@ Through hole pin header THT 1x04 2.54mm single row
 4
 4
 000_Connectors_Immo
-TerminalBlock_Altech_AK300-2_P5.00mm
-Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
-Altech AK300 terminal block pitch 5.0mm
-0
-2
-2
-000_Connectors_Immo
 TerminalBlock_Phoenix_PT-1,5-16-3.5-H_1x16_P3.50mm_Horizontal
 Terminal Block Phoenix PT-1,5-16-3.5-H, 16 pins, pitch 3.5mm, size 56x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
 THT Terminal Block Phoenix PT-1,5-16-3.5-H pitch 3.5mm size 56x7.6mm^2 drill 1.2mm pad 2.4mm
 0
 16
-16
-000_Connectors_Immo
-TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal
-Terminal Block TE 282834-4, 4 pins, pitch 2.54mm, size 10.620000000000001x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-4 pitch 2.54mm size 10.620000000000001x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-4
-4
-000_Connectors_Immo
-TerminalBlock_WAGO_236-416_1x16_P2.5mm_45Degree_1
-Terminal Block WAGO 236-416, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
-THT Terminal Block WAGO 236-416 45Degree pitch 5mm size 82.3x14mm^2 drill 1.15mm pad 3mm
-0
-32
 16
 000_Connectors_Immo
 TerminalBlock_WAGO_236-416_1x16_P5.00mm_45Degree
@@ -740,6 +754,13 @@ Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?ta
 potentiometer vertical 9mm single
 0
 5
+3
+000_Resistors_Immo
+Potentiometer_Bourns_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+3
 3
 000_Resistors_Immo
 Resistor_0805_2012_handsolder
@@ -64996,6 +65017,13 @@ https://docs.arduino.cc/hardware/mkr-zero
 28
 PCM_arduino-library
 Arduino_Mega2560_Shield
+https://docs.arduino.cc/hardware/mega-2560
+
+0
+92
+91
+PCM_arduino-library
+Arduino_Mega2560_Shield_noHoles
 https://docs.arduino.cc/hardware/mega-2560
 
 0
