@@ -1,4 +1,4 @@
-21728612033299636
+21730305711682455
 000-edge-connectors-immo
 1-pin-edge-touch-xl
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
@@ -83,6 +83,13 @@ THT Terminal Block TE 282834-4 pitch 2.54mm size 10.620000000000001x6.5mm^2 dril
 0
 4
 4
+000-screw-terminals-immo
+TerminalBlock_WAGO_236-416_1x16_P2.5mm_45Degree
+Terminal Block WAGO 236-416, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-416 45Degree pitch 5mm size 82.3x14mm^2 drill 1.15mm pad 3mm
+0
+32
+16
 000-screw-terminals-immo
 TerminalBlock_WAGO_236-416_1x16_P2.5mm_45Degree_1
 Terminal Block WAGO 236-416, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 82.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
